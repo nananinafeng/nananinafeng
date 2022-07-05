@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ####  😸 - About Me
 
-🖥 Full-stack Software Engineer
+🖥 Devops
 
 🤖 Previous occupation: Robotic Process Automation Engineer
 
